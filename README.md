@@ -18,4 +18,4 @@ My first Python scripts from Automate the Boring Stuff
 - test3.py — мои эксперименты с if/else
 - grade.py — оценка по баллам
 - weather_advice.py - совет по погоде
-
+- time.py - проверка времени суток
