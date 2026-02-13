@@ -14,6 +14,8 @@ My first Python scripts from Automate the Boring Stuff
 
 ### Примеры скриптов из практики
 
-- **dishonestcapacity.py** — калькулятор "нечестной ёмкости" (пример из книги)
-- **test3.py** — мои эксперименты с if/else
+- dishonestcapacity.py — калькулятор "нечестной ёмкости" (пример из книги)
+- test3.py — мои эксперименты с if/else
+- grade.py — оценка по баллам
+- weather_advice.py - совет по погоде
 
