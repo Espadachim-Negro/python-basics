@@ -1,4 +1,3 @@
-My first Python scripts from Automate the Boring Stuff
 
 ## Chapter 2 — Flow Control (if / elif / else)
 
