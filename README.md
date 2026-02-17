@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ca7df166-3d21-4196-bd21-81f485da8813" /># python-basics
 My first Python scripts from Automate the Boring Stuff
 
 ## Chapter 2 — Flow Control (if / elif / else)
