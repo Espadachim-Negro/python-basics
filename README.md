@@ -54,3 +54,4 @@
 - test_results.py — анализ результатов тестов (как в QA)
 - numbers_processor.py — обработка чисел от пользователя
 - duplicate_remover.py — удаление дубликатов
+- Shoping_list.py - проверяет среднюю сумму покупки и общую
