@@ -37,3 +37,20 @@
 - exit.Example.py - бесконечный цикл пока пользователь не введёт exit
 - guessTheNumber.py - угадываешь число от 1 до 20 при помощи подсказок, 6 попыток
 - rpsGame.py - Игра камень ножницы бумага
+
+## Chapter 4 — Lists
+
+Практика списков из четвёртой главы.
+
+Что изучил:
+- Создание списков и индексация
+- Срезы (slicing)
+- Методы: append, insert, pop, remove, index, count
+- Перебор for + enumerate
+- len, in, sorted, max/min/sum
+
+Примеры скриптов:
+- todomanager.py — менеджер задач с меню
+- test_results.py — анализ результатов тестов (как в QA)
+- numbers_processor.py — обработка чисел от пользователя
+- duplicate_remover.py — удаление дубликатов
